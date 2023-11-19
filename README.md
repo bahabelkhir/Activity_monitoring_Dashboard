@@ -51,7 +51,7 @@ I'm a passionate data analyst/scientist who loves transforming raw data into mea
 
 
 ##  Marketing video of the dashboard  
- https://youtu.be/kf0e7oUmwg0
+ https://youtu.be/f-NSC-DK2ag
 
  ##  Collaborators
  ●  **bahabelkhir**
