@@ -12,7 +12,7 @@ The idea of this project is to create a dashboard that meets the needs of Talend
 
 Talend ETL (Extract, Transform, Load) simplifies data integration tasks by creating "jobs" that manage data movement. These jobs define extraction from various sources, transforming data according to defined rules, and loading it into the target destination, streamlining complex data workflows.
 
-I'm a passionate data analyst/scientist who loves transforming raw data into meaningful insights. Possesing a background in programming knowledges , I thrive on uncovering patterns, solving complex problems, and deriving actionable conclusions from data.
+
 
 ## Project process:
 ● Collect data from the Talend platform for metrics: Talend job's component execution times, data volumes processed and job's logs.
